@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 name: IBDJZ Support
 title: Support voor de IBDJZ app
+github:
+  is_project_page: false
